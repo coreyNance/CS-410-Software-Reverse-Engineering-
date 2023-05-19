@@ -1,0 +1,4 @@
+﻿  CS410_Project2.cpp
+C:\Users\anyth\Documents\SNHU studies\CS-410\Week-7\CS410_Project2\CS410_Project2.cpp(109,9): warning C4101: 'value': unreferenced local variable
+C:\Users\anyth\Documents\SNHU studies\CS-410\Week-7\CS410_Project2\CS410_Project2.cpp(144): warning C4715: 'CheckUserPermissionAccess': not all control paths return a value
+  CS410_Project2.vcxproj -> C:\Users\anyth\Documents\SNHU studies\CS-410\Week-7\CS410_Project2\x64\Debug\CS410_Project2.exe
